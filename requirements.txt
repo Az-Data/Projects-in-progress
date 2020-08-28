@@ -5,3 +5,4 @@ numpy==1.19.1
 geopandas==0.8.1
 appmode==0.8.0
 ipywidgets==7.5.1
+xlrd==1.2.0
